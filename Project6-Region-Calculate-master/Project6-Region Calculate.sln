@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project6-Region Calculate", "Project6-Region Calculate\Project6-Region Calculate.csproj", "{3D6A87F0-6C68-4A70-9E7C-0BB657FC2CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6A87F0-6C68-4A70-9E7C-0BB657FC2CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6A87F0-6C68-4A70-9E7C-0BB657FC2CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6A87F0-6C68-4A70-9E7C-0BB657FC2CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6A87F0-6C68-4A70-9E7C-0BB657FC2CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13127C3C-0337-45B3-8159-395AFD95C3D2}
+	EndGlobalSection
+EndGlobal
